@@ -47,6 +47,9 @@ const Home = () => {
         </header>
     
         <main>
+
+            {/* about Section */}
+
           <section className="about-container wide-padding">
             <div className="about-img">
               <img
@@ -54,9 +57,6 @@ const Home = () => {
  alt=""
               />
             </div>
-
-            {/* about Section */}
-
 
             <div className="about-text">
               <h3>About</h3>
